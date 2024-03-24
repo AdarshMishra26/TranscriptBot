@@ -1,0 +1,5 @@
+google-generativeai
+nltk
+requests
+youtube-transcript-api
+scikit-learn

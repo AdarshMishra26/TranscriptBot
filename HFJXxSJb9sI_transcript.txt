@@ -1,0 +1,743 @@
+Let us talk about the course content, so let
+me ask you a question, what are your expectations
+from this course, how many mechanics courses
+you have done? Introduce yourself, my name
+is Adhithya, Adhithya, yes, there will be
+so many Adhithyas in the class, so Adhithya
+Upadhaya, Adhithya Upadhaya, yes, my question
+is what you did not learn over here, which
+forces you to study geotechnical engineering-I
+which is also known as soil mechanics.
+Soil properties, ok, so let us complete this
+list first and then this is with a ways soil
+mechanics alright, which is the modern name
+is geotechnical engineering-I. yeah, you are
+saying something Adhithya. So, in this course
+we never learned about the soil properties
+on what the structures are built or how the
+fluid is going to get affected by the soil.
+Sorry sorry say it again how, on what the
+structures are built or the water the fluid
+how it flows and what kind of soil very nice
+never learnt everything.
+So, you already read everything, what are
+your expectations, Sir I am Shishanka Shashanka
+Shashan Shashanka. Yes. So like this stability
+of structures are generally dependent on how
+the soil is below it, so, okay, it is important,
+okay and sorry, since the stability of any
+structure which is above it depends also on
+the soil properties. So it is important to
+learn soil mechanics. Yes next, My name is
+Yesh sorry Yesh Yesh. Okay.
+Sir the expectations are pretty much same.
+Sorry speak clearly. how soil behaves, when
+it is exposed to water. How soil behaves,
+how water transmits through it. How water
+transmits through it, alright. So the property
+like how much strength can be a how much strength
+very good and nice. My name is Rohit Choudhary.
+Yes. I think that for any structure this course
+will help us to determine the type of foundation
+.
+We are going to who who, who have you this
+idea of foundations and all, means depending
+upon the soil we will choose the type of foundation,
+where you are much much ahead of your time.
+You understand see right now you have to understand
+the soils. But that is a good application
+of what you're going to study over here foundations
+alright. So as some of you was talking about
+the stability of structures and all.
+These things will come much later. This is
+the time to learn A B C of a new material.
+So that is why what I have done is I have
+listed materials as number 1. You see, you
+were talking about fluid mechanics, structural
+mechanics, solid mechanics, engineering mechanics.
+Truly speaking it should have been an inverted
+pyramid, so currently we are doing structural
+mechanics-II. Forget about what you are doing
+what exist what should be aware of.
+Think about it next. Hmm. Your name at least
+tell your name. I am Shanthanu Chaparia. Okay.
+I am aware of this much courses only as of
+now. Biomechanics. Is this okay, yeah. It
+is becoming very contemporary. Is this correct
+or not, why. Everybody is talking about biomechanics,
+bio molecular mechanics, this is correct?
+So, let me tell you that civil engineers are
+not much behind all these things.
+So, once you understand the material we can
+talk about all these things also later on.
+So, if you go to the web pages of some of
+the faculty members in the department, they
+are all active in these subjects, any other
+things which comes to mind nanomaterials,
+nano mechanics, you are from IIT Bombay, is
+it not, IIT Bombay is famous for what, nano
+center, nano center clear. So, nano mechanics
+of everything.
+Now, let me ask you a question. What is so
+common between nanomaterial and soils. Any
+guess, Mahima, yes, please. Both are small
+particles, both are small particles correct,
+how small they are. What is meant by nano?
+any example of soil which you think is a nanoparticle?
+Next, I am Poornima, yes, sea sand, see particle,
+next much lower in a particle size range as
+compared to sands.
+My name is Aniket. Aniket, yes. I also do
+not know sir okay, very good. Not knowing
+is not crime, myself Subam Sujith. Maybe straight
+away myself Subam Sujith Subam. Yes. Okay.
+Maybe mud so tight, very good. So mud is a
+layman's language, can you refine your answer?
+what is mud, quite close, clay, very good
+excellent. So, clays are the nanomaterials.
+So what is that I am trying to draw a similarity
+between.
+Yeah. Hi, my name is Aksath, Aksath. Yes,
+yes Aksath what is the similarity I am trying
+to draw between the nanomaterials which you
+normally talk about in material sciences,
+electronics and now my question is why I am
+discussing this in the class, which has meant
+for Civil Engineers. May be the properties
+of nanomaterials can be the same, clays themselves
+or in nanomaterial.
+Okay, so by studying the properties of clay,
+we can have some civil engineers are the first
+to talk about the nanomaterials you know in
+the history of civilization. And much later
+came the application in the field of electronics
+and other fields, this is the message which
+I am trying to give you. Okay, so well you
+are right most of you anything which I have
+left over here or you have left over here
+which you want to include, yes Ankit.
+So, maybe sir different types of soil in its
+properties, no, no, you were talking about
+you know, what is that you are interested
+in knowing about it. So that we should study
+the mechanics of the soils, which is geotechnical
+engineering I. Anything which we have missed
+out in this series, it was talking about the
+material somebody was talking about structures
+resting on the somebody was talking about
+the transmissivity, fluid passing through
+this alright, then somebody was talking about
+this strength, and so on. And this guy started
+talking about the foundations and then I stopped
+them over there. I said, no, the size of this
+application part of it, alright, you are getting
+the point. So, right now, what we are more
+interested in is the material itself. Now,
+as an engineer as a technologist, slowly and
+slowly you will start realizing what is the
+difference between engineers and technologists.
+So why IIT Bombay gives you B.Tech and another
+institution gives you BE is a big question.
+And what should be your role as a B.Tech degree
+holder. I am sure you have not question this
+ever. So today evening when you go back, please
+check it out, clear. So, the funda here is
+right now we will just understand with whom
+I am interacting, who is Mannan, interaction,
+whatever interaction I have to understand
+the material first clear, and then only I
+will jump on to whatever foundations I have
+to provide whatever structures I have to create.
+What type of transmissivity I am going to
+talk about and so on, that will come much
+later. So first of all, what you have to do
+is just understand the material. So most of
+the emphasis would be to explain to you the
+material with which you are going to communicate
+what is the meaning of this word communication
+with the material. My name is Arpan Jain say,
+say it again Arpan, Arpan yes. So what is
+the meaning of the word communication with
+the material.
+Now with the properties very good. So, communication
+means the way you want to talk to any of your
+friends. You do not have a name first of all,
+you do not know from where the material has
+come, this guy has come, what is the history
+clear, and then you want to understand why
+he or she is here. And then you want to understand
+how I should be approaching and talking and
+then further on, how I should be communicating.
+And then maybe utilizing the person, are you
+getting this feeling. So, the whole idea of
+teaching geotechnical engineering I is to
+make you conversant with the material which
+you have known. Everybody is born out of soils.
+But you have never thought about it as a technologist,
+as an engineer, you have never tried to communicate
+with it. Now, if you travel from this place
+to your hostels, and you must be noticing
+because of the rains, how many grams, kilograms
+and tons of soil is getting washed out, because
+of the rains from the Gymkhana.
+Now, this is a good example of transmissivity
+which you were talking about, now if this
+happens inside a dame imagine what is going
+to happen are you getting the point. So, we
+would like to understand the material first
+and then we will slowly and slowly start communicating
+with it and then what stage will come after
+communication, what stage comes you start
+commanding, dictating.
+And then what comes later on negotiation,
+you understand the difference between these
+words. So, the day you start negotiating with
+the material, you have become an extreme expert
+in the subject. So, somebody says that I cannot
+do anything with this material. You said no,
+no, no, it is not like that. I will, what
+I will negotiate with the material that you
+have to behave like this the way I want you
+to are you getting this idea clear.
+A good example would be you are developing
+so many fourth, fifth, sixth cities in Mumbai
+you know reclamation, we will be talking about
+that later on. That means, neither the soil
+was from the local place, you brought it from
+somewhere else. You started dictating it,
+how should behaving, and then a stage came
+when you started negotiating with it, the
+look, you have to be stable here for 30 years,
+50 years, 60 years.
+I going to load you from the top, you are
+not supposed to deform at all, even if the
+waves come, you should remain like this. Is
+this part clear, any questions. So, modern
+day soil mechanic when I studied, I studied
+this maybe I do not know how many years back
+I am 86 pass out. So 1982, 83-84, 1984 I must
+have studied solid mechanics. Those days the
+subject was more of bookish. But now things
+have changed.
+Everything has a practical connotation, everything
+has a practical meaning, application for what
+are you studying in the classroom. Unless
+you have understood and application of it,
+you should stop the instructor. And ask the
+question that I am not very clear about what
+is the implication of what to say. So, my
+intention would be, if you help me to make
+you a technologist of a very special material,
+which is known as soils.
+And of course, the genesis of soil also we
+will study, that means, we will not only talk
+about the how to deal with the offsprings,
+kids, we will also study how to handle the
+parents. Many times parents require more counseling
+than you guys. I hope you understand this.
+Is this correct, why, you know the reason.
+So, you know what you have to do as a technologist,
+we have to start understanding the origin.
+And then from there we have to see what type
+of DNA you carry. And how much I can refine
+your DNAs to make you a perfect technologist
+okay, so what we will do is, let me talk about
+the course structure.
+See, we will talk about this description of
+the material first. So, description of soils.
+Now, as I said, some time back, we are going
+to talk about the origin of soils. Because
+you must have realized, you know, I was trying
+to link the offsprings with the parents, I
+was talking about something related to genes
+and DNA. And then I was talking about refinement
+of DNAs also clear. So all these things are
+linked with each other.
+So, I will be talking about origin of soils.
+So this is where the linkage between the parents
+and the offsprings is going to be. I will
+also be talking about the rock cycle. I am
+sure you must have studied it in your engineering
+geology course. Is it not. Now this is to
+understand the material and its heritage,
+linkage, parentage. How many adjectives I
+have used. Is this part clear? So I am trying
+to link all these adjectives, heritage, linkage,
+parentage, and what type of kids the samples
+with whom I am interacting are.
+And what I can do with them. How best I can
+utilize them. Is this correct, Now, having
+done this, I will spend some time on this
+because this is very important to understand
+your heritage, your origin, how you got originated
+clear and then you might have changed your
+city and you have landed up in Bombay change
+of place, so you are transported from some
+place to another place you are deposited here
+and so on.
+And maybe after 10 years, you might buy lot
+of things in Bombay city and you have established
+over here. The same thing happens in soils
+also clear. So, then we will be talking about
+the basic relationships. You say we are engineers,
+technologists. So, ultimately we want to dictate
+terms with the material clear and that has
+to be in mathematical form. So having understood
+the material, what we will try to do is.
+What are the basic mathematical relationships
+with govern its overall properties, characteristics.
+This is what we will try to do. okay, so this
+is the basic relationships. Then we will be
+talking about the characterization of soils.
+You know, the best way to understand anybody
+is do all sorts of examinations, test clear.
+A good example is modern day medicine system.
+You go to any hospital, doctor does not want
+to see you, what he or she wants, ten test.
+Go to pathology, get these tests done, report
+comes on my screen, take appointment deposit
+money, I will tell you what the disease is,
+is this correct, same is our profession. We
+have an idea about what the origin is, what
+the description of the soil is, how it was
+formed, where it got originated, from where
+it came to certain place, what happened later
+on, develop some mathematical relationships.
+And then try to characterize it, so that we
+can understand it better. So, when we talk
+about the characterization of soils we will
+be talking about index properties. This is
+the best way to understand you know, it is
+similar to the pathological report, the way
+the doctors sitting in their cabin, diagnose
+you as a patient sitting in my office and
+depending upon my laboratory staff, whatever
+properties and the parameters come, I can
+create a hypothesis in my mind.
+That look this is the material which is prevailing
+or which was, you know, available in this
+portion of the country or the world and what
+I should be doing with it, are you getting
+this point, are you getting a larger picture
+out of this, yes Sidhanth. Yes, Sidhanth and
+you told that whenever you hear any type of
+soil, it creates a hypothesis in your mind
+very good . That what could be this hypothesis,
+hypothesis maybe about the properties of the
+soil are.
+What is the hypothesis of a captain of a playing
+11 cricket 11, what is that, what is the hypothesis
+having in his mind when he is on the field
+to win the game, no, to strategize very good,
+what type of strategies which at what time,
+what decision should made be very specific
+what type of decision field placement okay,
+how to utilize the filters, how to utilize
+the bowlers, yeah, how do utilize the batsman
+strategy, strategy.
+Now same thing I can do by characterizing
+of soils. That means if I have the blood report
+in my hand, if I have all the properties,
+what I can do? I have a strategy in the mind
+that look I should be using this material
+for this purpose, you got it whether this
+is going to be a good material for creating
+a foundation or not, whether it is going to
+be a good material for stopping the fluid
+flow transmissivity.
+There could be situation where I would like
+to enhance the transmissivity, there could
+be a situation where I would like to reduce
+the transmissivity. So, the way I am speaking
+what feeling do get I am the master of the
+material and the master of the situation.
+Are you getting this point, the material remains
+same. But what I am going to do, I am going
+to create a strategy in my mind that how I
+should be utilizing this material.
+So when he says permittivity and if I am a
+let us say, petroleum geophysicist whose job
+is to dig oil well and produce more and more
+hydrocarbons for the country clear. Transmissivity
+should be more, the more and more production
+you should be doing are you getting the point.
+But suppose if I am creating a dam, where
+the whole idea is to stop simple water so
+that the water remains in the dam for entire
+year.
+Otherwise what is going to happen. This year
+it has rain, you are not sure about what is
+going to happen next year. So that means the
+same material, I should be able to create
+a strategy to either allow permeation of the
+fluid to take place or not. Now that art you
+can learn, when you understand how to read
+ECG, how to read characteristics of the soils,
+and so on, which is mostly being done by the
+laboratory staff which does not mean that
+you should never learn it.
+You should also learn how to characterize
+the soils by your own self, then you have
+more command on the things. Okay, so now,
+what we will do is index properties yes. We
+will talk about the soil structure. Now the
+way I am sure this, my dear friend must have
+used this word structure, structure has a
+I do not know some one of you have used most
+probably you Is it not? So the structure has
+different connotations in soil mechanics and
+geotechnical engineering, what type of structures
+we are talking about.
+Let us first talk about the structure of the
+soil itself. Understood, and then we will
+talk about the structures which are going
+to be sitting on it or made with this or made
+in this how many terms I have used. I know
+I have twisted a lot of things. So, I was
+talking about structures made by this material
+made in this material made on this material.
+All are contextual. So, slowly and slowly,
+remember the material remains same.
+But what I am doing I am creating different
+situations. So, God willing this we will be
+discussing in your next course, that is the
+application of all these concepts which you
+are going to study in this another 30-35 lectures.
+So, more emphasis would be to understand what
+the material is and then negotiation and mastering
+the material will start in the next semester.
+But here has the stage will be set by the
+end of this course, that you should be able
+to do net practice.
+What is net practice, you understand what
+is net practice, is this clear, very good.
+So, now, what we will do is we will talk about
+soil structure is something different than
+what you might be understanding right now.
+So, suppose if I asked you what is the difference
+between your T shirt and his T shirt, structure
+is different, texture is different clear.
+So, mostly the guys who are into fabric technology
+what do you call this as is of course, textile
+engineering, but they normally talk about
+the fabric of sorry structure of the fabric.
+Here we will be talking about the structure
+of soils, is this clear. No structure is resting
+on this. No structure has been made by using
+this material. No structure has been made
+into it. I am just talking about the structure
+of the soils. Incidentally, these 2 guys out
+of ignorance are talking about sands and clays
+and mud. Each of this word has a connotation.
+When you go and speak in a scientific world
+or in a international forum or national forum,
+where the technical guys are sitting.
+Now if you say mud, the connotation is this.
+If you say clay connotation is this clear,
+so you have to be careful. Anyway, you will
+learn this. Then we will be talking about
+soil classification. Because the classification
+of soil is based upon whatever we have studied
+by this time starting from its origin, the
+way it was created, the way it was transported,
+the way it was deposited, clear, forget about
+the basic relationships, index properties,
+which are very, very particular to and the
+signature of the material alright.
+Signature means, I do not know what how do
+you define the word signature of a material
+. The best way would be, this is what the
+material itself is uniqueness. And then comes
+the soil classification. So, once you tag
+CE 323 S2 division, it is a classification,
+it is understood that these guys know all
+these things, whatever has been discussed
+in today's class. Is this part clear or not.
+That becomes a class.
+And then people start saying he is in a class
+apart. No, what of the meaning of this word,
+you are representing a class which is totally
+different than rest of the things. This is
+what we will try to do, we will try to put
+a material into a specific class so that I
+did not have to talk about much of micro details.
+I will simply say this is a class. Use it
+like this strategy clear. So I will be using
+this materials in the last the depth overs
+clear.
+These materials will be in the middle order,
+and so on. So that strategy comes from here.
+Now what we will do is we will go ahead with
+the now comes the engineering properties.
+So this was as far as the material properties
+are concerned. Draw a line over here. So,
+this is mostly on the material how are you
+going to do engineering with this material
+fine. So, engineering aspects would be we
+will be talking about soil compaction.
+Any good example we are compaction you might
+have heard of rollers perfect cricket matches
+mostly is it not, they take light rollers,
+heavy rollers, id you have the question why,
+we might get some answer from here. So, soil
+compaction is an engineering property of the
+material. Here we will be talking about you
+know laboratory compaction techniques. And
+field compaction.
+Any other examples where you think compaction
+becomes important, packing in a suitcase is
+also good, yes, yes, yes. Okay you are compacting
+the material there alright. Apart from that
+do not pack your suitcase right now you have
+come from home. Okay. Any other example where
+you think compaction is critical, important,
+you might have seen roads yes. So you are
+aware of this alright.
+Now, having done this, let us put it as a
+class A of engineering properties alright,
+so the first engineering property is compaction.
+The second engineering property would be soil
+water statics, the statics. The best way to
+learn soil mechanics is follow the art of
+making pitches, so cricketing pitches, cricketing
+turfs, tennis turfs, hockey turfs, football
+turfs you know why, all this is very practical
+and highly applicable to preparation of a
+turf, any type of turf clear, the turf material
+might change the compaction level may change.
+So sometimes captain say dry rolling, sometimes
+they say sprinkle water and roll. So look
+at this what I have done, I have related soil
+compaction this soil water statics, okay,
+so we will talk about this. Now from this
+point onwards, we will also talk about effective
+stress concept because when you are compacting
+something truly speaking the compaction is
+by applying certain weight, it could be static,
+it could be dynamic, it could be impact.
+Trains which are moving on the railway track
+are beautiful examples of what type of compaction,
+see the railways which are moving on the track
+and that sound come cut cut cut cut cut is
+it not what is that yeah vibration is induced,
+we are talking about the compaction first,
+rolling is taking place clear, the self weight
+is there, impact is there, clear so 2 there
+could be I can apply a huge load static condition.
+Suppose train stops on the railway track and
+then their load of the system is getting transmitted
+on to the railway tracks. Through that sleepers,
+which are resting on ballast, and ballast
+is resting on the foundations. Clear, again
+the mechanics of the material, how the loads
+and the stresses are getting transferred from
+a system on to another system and how it gets
+dissipated up to the foundation level.
+So, when you talked about the foundation,
+I am sure you were talking about only the
+foundations of the buildings. Now I have created
+a situation where I have given an example
+of foundations railway tracks, got it. So
+foundations is a very general term. Is this
+fine. So we will talk about the effective
+stress concept. We will also be talking about
+the capillarity phenomena which all of you
+have done in your 10+2 physics.
+Now, the time has come in to utilize the concepts
+of 10+2 physics into the real-life engineering.
+So we will develop few simple and basic models
+will try to apply these concepts into a system
+like soils when they get compacted clear and
+there is some soil water statics which is
+going on, because of which the pore-water
+pressures may develop. I am sorry, I have
+used the technical word today, I should not
+have used. So I withdraw it, we will talk
+about this later on. So because of this system,
+the effect stresses are developing the system
+and the root causes capillarity.
+Now comes another engineering aspect. Is this
+okay if I write like this, the another one
+would be flow through soils, what we were
+discussing flow through soils. I think this
+is what you were talking about. And I think
+I gave you some examples also. There is a
+very significant phenomena we call it as the
+permeability alright, so we will discuss about
+this engineering property in detail.
+There is something known as a quick sand condition.
+There is an advisory during each monsoons,
+why you should not be going close to the beaches,
+seashores and the areas which are very susceptible
+for quick sand condition. It gets drawn in
+the sands very good, perfect. So that is the
+condition which gets created in beneath the
+buildings. And no wonder when you get up in
+the morning and you read Times of India you
+say one building has sunk now you know the
+answer. clear.
+So, as an engineer your job would be how to
+stop this condition to occur in field. See
+here when we talk about the flow through soils,
+we will be talking about the permeability.
+And then there are different types of tests
+which have to be done. There are different
+types of tests which have to be done, some
+of them are laboratory. Incidentally there
+is there are 2 types of tests normally either
+laboratory tests or field test.
+And we are supposed to do both to understand
+how the material behaves in controlled environment
+which is the laboratory and under natural
+environment which is the field condition.
+So, laboratory and field conditions alright,
+those of you who are interested in joining
+after your fourth year oil and gas companies.
+Believe me, your fundamentals are absolutely
+0. And most of the time I have been interviewing
+few guys and fortunately, nobody knows me.
+And what I have realized is that absolutely
+no understanding of the basics of the subject,
+but your aims are very high. You want to get
+big salary packages without knowing the basics
+of the subject. So all these oil and gas companies
+they rely too much on and simulation. So nobody
+is going to take a risk of making an oil well
+you know, unless you have done the simulation,
+we will be talking about the flownets.
+Flownets are nothing but the regime of how
+the seepage occurs through the compacted soil
+mass or the soil mass itself alright. So this
+is also an engineering property. Now, shifting
+this concept, so let us say this would be
+engineering 1. And engineering 2 would be
+the stresses in the soil. I think I gave an
+example of the moving train the stresses in
+soil from surface load. Here we will talk
+about different theories.
+How to compute, what is this known as is state
+of stress in the soils, those of you who would
+become an expert in transportation engineering
+they would require it a lot because of ignoring
+this effect, you can realize the state of
+our roads alright. So, how would you do the
+best possible engineering to design the best
+possible pavements. The answer comes from
+here, what type of stresses are getting induced
+on the surface because of a moving vehicle.
+It could be aircraft, it could be railway,
+it could be a road transport, bus whatever
+clear. So, how this stresses are going to
+generate in the system, what is the state
+of stress in the soil at a given point, this
+is what we are going to spend time on. We
+will also be talking about the contact pressures.
+Now this contact pressure is between the loading
+area and the soil mass. Here comes the example
+what you are citing.
+So there is a foundation which is sitting
+on a soil mass, what is the contact pressure
+between the 2 original interface or at the
+interface. So this is what actually we will
+talk about contact pressure. The most important
+thing we will be talking about is which is
+stress induced, what is known as consolidation.
+So consolidation characteristics of soils
+and what is their applications. So, all of
+you who are interested in infrastructure related
+jobs should be very thorough with these concepts
+of you know what type of loads come.
+How do they get dissipated in the soils, how
+the consolidation occurs. In short, consolidation
+is a phenomena where the compression of the
+soil mass takes place over a period of time
+because of external loading, clear, we will
+discuss this in details. And then we will
+be talking about settlement analysis. So this
+is the settlement analysis of soil mass, the
+course content appears to be quite elaborate
+or its reasonable.
+Be attentive in the class because the best
+way to learn, I can assure you though I am
+going to give you a list of the books that
+you should be following. It will be very difficult
+on your part to refer to these books, but
+you should refer to these books particularly.
+It is not that I am selling my subject. Please
+do not mistake me. It is a very important
+subject and all, I mean everything rests only
+on the ground or the soils alright.
+So the 2 things which I wanted to convey to
+you, I am going to give you a list of books.
+But please discuss in the classroom, do not
+hesitate if you are not following anything,
+and make sure that if you are not following
+anything, your next neighbor you know your
+neighbor is also not following anything. So
+there should not be any hesitance or maybe
+resistance in your mind that you are not going
+to open up.
+It takes time to pick up the concepts. But
+once you have picked up the concepts you become
+you can discover your own shoats. Okay, so
+list of books.
+But whenever you get time, please get hold
+of some of these books. You know, the first
+book and the best book in the market would
+be Craig. I am not writing the full form what
+I will do is I will send you the list of this
+on email. So those of you who are interested,
+can either buy it or may be keep it with you
+in case you go for masters or higher education
+or you become a consultant tomorrow , you
+will declare these books remember.
+These books will haunt you throughout your
+life as a civil engineer. It is a must to
+read this books. The Another one is Holtz
+and Kovacs, very high funda book. So if you
+do not have time, do not bother about this.
+At least you should know these few names.
+The bible on the subject is by Lambe and Whitman.
+Most of the titles are soil mechanically like
+the first one is Craig soil mechanic. The
+second one is an introduction to geotechnical
+engineering.
+The third one is soil mechanics. The fourth
+one is Michell and Soga excellent book for
+the guys who really want to adopt geotechnical
+engineering as their profession, another good
+book by Gopal Ranjan 
+and A.S.R Rao, basic and applied soil mechanics,
+there was a time when most of us used to read
+the books which are written by the father
+of soil mechanics, this is Carl Terzaghi.
+If you are really interested, try to get hold
+of this .
+This book is by Terzaghi and Peck when you
+do a course on foundation engineering, you
+will come across this name of Peck, Hanson
+and Thornburn. Fortunately, my master supervisor
+was a student of Peck. This is the linkage,
+heritage, or what do you call it parentage
+it is very important, you know, another interesting
+book you should study but not during your
+B.Tech days, but when you pass out, you know.
+It is an interesting book which is written
+by Malcolm Bolton. This is a sort of an autobiography.
+And this guy was a professor at Cambridge.
+So, he has written about his experience a
+guide to soil mechanics by M. D. Bolton, Malcolm
+Bolton. There is another good book written
+by B.M Das, this is principles of geotechnical
+engineering. Try to get hold of these books.
+Some of these books are available.
+But my recommendation would be at least have
+a copy of this because I will be following
+this once in your life, read this book. And
+if possible, read this book. This is okay.
+And of course, this one you should keep when
+you if you want to become a consultant. This
+is a must for all undergraduates. I will be
+following mostly this book whenever you get
+tine in a leisurely mode, please read just,
+follow this. And this again is a Bible.
