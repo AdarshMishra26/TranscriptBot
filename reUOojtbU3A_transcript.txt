@@ -1,0 +1,210 @@
+[Music]
+hi my name is Venkatesh and my name is
+Madhavan together we are going to
+introduce this course which is called
+computational thinking to you which is
+the first starting step to learning
+programming actually and the reason we
+are calling it computational thinking is
+because before we start doing any
+programming work we got to organize our
+thinking in a very specific way so that
+this thinking process is systematic and
+can be communicated to another person or
+to a computer or whatever it is for
+which thought process has to be
+organized in a very very specific way
+and all that we will teach you in this
+course essentially is to help you to
+organize your thought process like this
+so we must remember that a computer is
+just a very precise machine which can
+execute some commands that we tell it to
+like to add some numbers or to divide
+some numbers or to move things around
+you know rearrange something so what we
+are really doing when we instruct a
+computer through a program is to follow
+a specific sequence of steps to achieve
+some goal so this is nothing very
+special about computers the same thing
+happens when we talk to somebody else
+about how to do something for instance
+if you have ever experienced cooking
+show or cooked yourself then you would
+follow a recipe so a recipe for cooking
+is just a sequence of steps it tells you
+what are all the ingredients that you
+need then it will tell you how to
+process these it'll tell you something
+fine it will tell you to make put
+something into a mixer and grind it into
+a powder and then it will tell you to
+heat something put something there will
+be a sequence you add something first
+add something second and of course how
+much detail these instructions are
+depend on what is the expected
+understanding of your level of expertise
+so if I think you are an expert cook I
+would just say chop something fine but
+if I think that you are cooking for the
+first time then I might tell you that by
+fine I mean that each piece must be
+roughly say two millimeters by two
+millimeters or it should be five
+millimeters by five millimeters so let's
+take an example suppose
+trying to arrange a function in a hall
+and I want to get this hall ready for
+the function so if this if there is a
+team of people who do this regularly
+right then I just have to tell you know
+the function is going to start at 10
+o'clock tomorrow there will be 50 people
+please get the hall ready and this will
+be enough but supposing this is a new
+team of people who have never done this
+before then I have to be much more
+elaborate I will have to say maybe that
+you should make sure that the hall is
+cleaned half an hour before if it is
+warm weather maybe turn on the
+air-conditioner at 9:30 then if they're
+supposed to be fifty people how do you
+arrange the chairs I might have to say
+put the chairs in 10 rows but or in five
+rows with 10 chairs per row but then
+keep a gap in the middle so you have
+five gap and five so depending on how
+much I expect the person who is going to
+understand and do the instruction
+execute the instruction how much they
+can do without further explanation I
+will give a suitable level of
+instructions so this is what we do when
+we talk to computer so we tell it
+certain steps and those steps are based
+on our understanding of what the
+computer can do easily like I had
+subtract you know flip left and right
+and so on so this is the language of
+talking to a computer and this is
+programming so in this course we are not
+really going to talk about specifically
+programming in any one language we are
+going to discuss rather the general
+steps that we use when we do
+computational things which will
+eventually be done on a computer so as
+modern explained the whole idea of doing
+programming is to convert a given
+problem into a sequence a procedure
+which is a basically a sequence of steps
+and what we will find
+while we do this course what we'll find
+interesting is that there is a pattern
+for a problem when you look at a problem
+the problems don't all look very
+different actually they all fall into
+certain patterns and when I say patterns
+what it means basically is that the
+sequence of steps for one problem can
+look very similar to the sequence of
+steps that we use to solve another
+problem and so basically if you do one
+pattern if you find for a signal
+we find the pattern which is what kind
+of steps that we need then one might be
+able to take these steps and apply them
+to a completely different problem coming
+from a very different problem domain
+right and this pattern can be simple for
+simple problems and can be extremely
+complex for complex problems so there
+can be a gradation in the complexity or
+the difficulty of the the pattern right
+in some sense so just as an example
+consider for example you know at home
+the dry clothes and so on so we get the
+clothes from the dryer from the washing
+machine so it has in a bucket or in a
+tub and we have these clotheslines and
+we need to take out these clothes and
+hang them on the clothesline so if we go
+about it in episode Li you might take
+the clothes and hang them and then after
+you start hanging them on the
+clothesline you'll find there is there
+are gaps between the clothes that they
+are hung there and so you have to find
+the appropriate cloth that will go in
+that gap right so to make it easier what
+you might say is that let me start to do
+it in a more systematic way so let me
+start in the clothes line from the left
+to the right so I take the biggest piece
+of cloth that is there hang it on the
+left side put a clip then pick the next
+biggest one put it next to it put a clip
+and go like that at the end when I have
+a small piece of space I will find the
+most appropriate you know cloth that can
+hang in that place and so I fill that
+clothesline and then move to the next
+clothesline so that can be one way of
+doing it so this is a pattern this gives
+me a pattern so the pattern basically
+says look for the biggest piece of cloth
+hang it on the left side of the plots
+length is a pattern now if you look at
+another problem for example I have a
+bunch of books that I have in a box and
+I have a three shelves and I want to put
+these books on a shelf again I have to
+do something right I have to pick
+something and put it on the shelf again
+I can do it oppositely or I could do it
+systematically I can take the biggest
+book keep it on the left side with the
+first shelf and then put the next
+biggest book with next to it and so on
+and go like that and if you look at the
+pattern for the books looks very similar
+to the pattern for the clothes how you
+hang the clothes on the line so in a
+sense there is even though the problem
+statements are very different right one
+is saying arrange books on a shelf the
+other problem is saying hang the clothes
+on a line the prob the way you approach
+these problems can look very very
+similar and a single part
+turn you might be able to write which
+does both so that is what we are going
+to explore in this course how do we find
+these kind of patterns which solves a
+very large class of problems coming from
+different domains so in order to
+illustrate these patterns and how we
+move from simple problems to more
+complex problems what we will do is we
+will work with some sets of data so in
+our next lecture we will look at these
+data sets in detail and explain exactly
+what we are going to do but just to give
+a quick introduction we have these cards
+so we have some data about school marks
+so we have cards representing the marks
+of students in a class we have some
+shopping data which talks about shopping
+bills and how customers spend on their
+bills and when we have some data taken
+from a paragraph if text where we talk
+about words and how many letters there
+are in each word and what type of speech
+and all that and using these different
+very simple pieces of data we will
+illustrate these ideas about looking for
+patterns and computing quantities in a
+systematic way
